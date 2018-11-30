@@ -1,3 +1,8 @@
 Dataset url: https://www.kaggle.com/c/word2vec-nlp-tutorial/download/labeledTrainData.tsv
+
+•	Development of Framework for Sentiment Analysis of Movie Text Reviews using ML and NLP.
+•	Raw text Reviews cleaning & pre-processing by removing mark-up text, stop-words removal, non-letters removal, stemming and tokenization.
+•	Python libraries - Pandas, Scikit-learn, Natural Language Toolkit, Beautiful Soup, and Numpy.
+
 Logistic regression accuracy = 88%
 Random forest accuracy = 85%
