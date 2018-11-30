@@ -1,0 +1,3 @@
+Dataset url: https://www.kaggle.com/c/word2vec-nlp-tutorial/download/labeledTrainData.tsv
+Logistic regression accuracy = 88%
+Random forest accuracy = 85%
